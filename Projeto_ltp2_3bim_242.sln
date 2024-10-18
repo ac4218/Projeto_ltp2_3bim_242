@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "validacoes", "validacoes\validacoes.csproj", "{4254D1C6-B852-4D1A-917F-A4D30E89E2E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frm_ValidaCPF", "Frm_ValidaCPF\Frm_ValidaCPF.csproj", "{2A1AAE9E-F617-413B-9CAF-26C0F7F129EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4254D1C6-B852-4D1A-917F-A4D30E89E2E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4254D1C6-B852-4D1A-917F-A4D30E89E2E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4254D1C6-B852-4D1A-917F-A4D30E89E2E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4254D1C6-B852-4D1A-917F-A4D30E89E2E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A1AAE9E-F617-413B-9CAF-26C0F7F129EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A1AAE9E-F617-413B-9CAF-26C0F7F129EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A1AAE9E-F617-413B-9CAF-26C0F7F129EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A1AAE9E-F617-413B-9CAF-26C0F7F129EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7B63A80-7376-4099-852D-99A207DBB1C7}
+	EndGlobalSection
+EndGlobal
